@@ -56,7 +56,7 @@
       "company": "FLASK IT",
       "duration": {
         "from": "7 Aug, 2024",
-        "to": "Present"
+        "to": "1 March, 2025"
       },
       "location": "Jaipur, Rajasthan",
       "work": [
@@ -64,7 +64,7 @@
           "role": "Software Engineer",
           "duration": {
             "from": "7 Aug, 2024",
-            "to": "Present"
+            "to": "1 March, 2025"
           },
           "description": [
             "Developed a cloud-based SaaS platform with business tools (CRM, document management, finance, HR, analytics) using microservices architecture. Ensured scalability, high availability, and seamless integration across tools. Implemented DevOps practices for automation, CI/CD, and monitoring to deliver features rapidly and securely."
@@ -125,15 +125,6 @@
                 "Provision cloud application resources using AWS CDK",
                 "Integrated Elasticsearch for robust search capabilities, enabling efficient querying and real-time data indexing"
               ]
-            },
-            {
-              "name": "Qopla Application",
-              "technologies": ["K8s", "Terraform", "MySQL", "Bitbucket", "Vault", "Docker", "Grafana"],
-              "responsibilities": [
-                "Used Terraform to automate the provisioning of K8s clusters and MySQL databases, ensuring consistent and scalable environments",
-                "Implemented CI/CD pipelines in Bitbucket for automated Docker container builds and deployments to K8s clusters, enhancing deployment efficiency",
-                "Configured Grafana for real-time monitoring and integrated HashiCorp Vault for secure management of sensitive data and secrets"
-              ]
             }
           ]
         }
@@ -142,16 +133,16 @@
     {
       "company": "Bharat Menpower Solution",
       "duration": {
-        "from": "Mar 01, 2022",
-        "to": "Jun 23, 2023"
+        "from": "December 01, 2022",
+        "to": "April 23, 2023"
       },
       "location": "Jaipur, Rajasthan",
       "work": [
         {
           "role": "Systems Engineer",
           "duration": {
-            "from": "Mar 01, 2022",
-            "to": "Jun 23, 2023"
+            "from": "December 01, 2022",
+            "to": "April 23, 2023"
           },
           "description": [
             "Developed and maintained web front-end using HTML and CSS",

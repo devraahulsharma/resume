@@ -15,7 +15,7 @@ const App = () => {
   const { header, experience, education, projects, others, footer, consent } = state;
 
   return (
-    <div className="wrapper size-A4">
+    <div className="wrapper size-A3">
       <div className="_header">
         <Header data={header} />
       </div>
