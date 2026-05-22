@@ -6,7 +6,7 @@
       "startDate": "Mar 01, 2022",
       "replacer": "{{experience}}"
     },
-    "bio": "DevOps engineer with 2.1 years of experience in CI/CD Integration, Docker, K8s and python. with a flair for creating elegant solutions in the least amount of time. Recognized consistently for performance excellence and contributions to success.",
+    "bio": "DevOps engineer with 2.5 years of experience in CI/CD Integration, Docker, K8s and python. with a flair for creating elegant solutions in the least amount of time. Recognized consistently for performance excellence and contributions to success.",
     "isBioVisible": true,
     "contact": [
       {
@@ -55,16 +55,16 @@
     {
       "company": "FLASK IT",
       "duration": {
-        "from": "7 Aug, 2024",
-        "to": "1 March, 2025"
+        "from": "7 November, 2024",
+        "to": "1 September, 2025"
       },
       "location": "Jaipur, Rajasthan",
       "work": [
         {
           "role": "Software Engineer",
           "duration": {
-            "from": "7 Aug, 2024",
-            "to": "1 March, 2025"
+            "from": "7 November, 2024",
+            "to": "1 September, 2025"
           },
           "description": [
             "Developed a cloud-based SaaS platform with business tools (CRM, document management, finance, HR, analytics) using microservices architecture. Ensured scalability, high availability, and seamless integration across tools. Implemented DevOps practices for automation, CI/CD, and monitoring to deliver features rapidly and securely."
